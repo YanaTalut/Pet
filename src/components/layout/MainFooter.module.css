@@ -1,0 +1,55 @@
+.footer {
+    background-color: rgb(254, 167, 205); 
+    font-size: 12px; 
+    padding: 20px; 
+}
+
+.p {
+    padding-top: 45px;
+    font-weight: 500;
+}
+
+.author {
+    text-align: justify;
+    font-weight: 500;
+}
+
+
+.contact {
+    display: flex;
+    flex-wrap: wrap; 
+}
+
+
+.wite {
+    color: rgb(254, 167, 205);
+}
+
+
+@media (max-width: 1200px) {
+    .contact {
+        flex-direction: column; 
+        align-items: center; 
+    }
+}
+
+@media (max-width: 992px) {
+    .footer {
+        font-size: 10px; 
+    }
+}
+
+@media (max-width: 768px) {
+    .footer {
+        font-size: 8px;
+        padding: 10px;
+    }
+
+    .p {
+        padding-top: 20px;
+    }
+
+    .author {
+        font-weight: 400; 
+    }
+}

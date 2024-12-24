@@ -1,0 +1,75 @@
+.container {
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 20px; 
+  background-color: #ffe6f2; 
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+}
+
+.p {
+  text-align: center;
+  font-size: 1.2em; 
+  color: #d7006e; 
+  margin-bottom: 20px;
+}
+
+.input, textarea {
+  width: 100%; 
+  padding: 10px; 
+  margin: 10px 0; 
+  border: 1px solid #d7006e; 
+  border-radius: 5px;
+  font-size: 1em; 
+}
+
+.textarea {
+  height: 100px; 
+  resize: none; 
+}
+
+.button {
+  background-color: #d7006e; 
+  color: white;
+  border: none; 
+  border-radius: 5px;
+  padding: 10px; 
+  cursor: pointer; 
+  font-size: 1em; 
+  transition: background-color 0.3s; 
+}
+
+.button:hover {
+  background-color: #b50054;
+}
+
+@media (max-width: 1200px) {
+  .container {
+      max-width: 100%; 
+      padding: 15px; 
+  }
+}
+
+@media (max-width: 992px) {
+  .input, .textarea {
+      font-size: 0.9em; 
+  }
+
+  .button {
+      font-size: 0.9em;
+  }
+}
+
+@media (max-width: 768px) {
+  .p {
+      font-size: 1em;
+  }
+
+  .input, .textarea {
+      padding: 8px;
+  }
+
+  .button {
+      padding: 8px;
+  }
+}
