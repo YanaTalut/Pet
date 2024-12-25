@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Pet/static/css/main.a5a95915.css",
+    "main.js": "/Pet/static/js/main.7b80532e.js",
+    "static/media/messi1.jpg": "/Pet/static/media/messi1.ea6d97a4c4096b8c6441.jpg",
+    "static/media/messi3.jpg": "/Pet/static/media/messi3.619edf239b6e373ad1ff.jpg",
+    "static/media/messi2.jpg": "/Pet/static/media/messi2.b761030d17b4fe2e0dc0.jpg",
+    "static/media/logo.png": "/Pet/static/media/logo.f7bb7282360b03ebc558.png",
+    "static/media/Misha_glav.jpg": "/Pet/static/media/Misha_glav.750c121e7b57376898d6.jpg",
+    "static/media/Bony2.jpg": "/Pet/static/media/Bony2.01761f6c4d761d8f3bbb.jpg",
+    "static/media/Bony3.jpg": "/Pet/static/media/Bony3.512ec78b997318f91ad5.jpg",
+    "static/media/messi.jpg": "/Pet/static/media/messi.a39de941f3fa24bd361b.jpg",
+    "static/media/img1.png": "/Pet/static/media/img1.6346ed7ba51a688119b6.png",
+    "static/media/Bony4.jpg": "/Pet/static/media/Bony4.edfb1bf962636e7499fa.jpg",
+    "static/media/Misha1.jpg": "/Pet/static/media/Misha1.88e3056462b342f6203b.jpg",
+    "static/media/Misha3.jpg": "/Pet/static/media/Misha3.679b8b7eb2ae243beada.jpg",
+    "static/media/header.jpg": "/Pet/static/media/header.89d05eaab651833410a3.jpg",
+    "static/media/Misha2.jpg": "/Pet/static/media/Misha2.f030085761c1d0f52802.jpg",
+    "static/media/Bony1.jpg": "/Pet/static/media/Bony1.db43088dbf6dc53fe9fa.jpg",
+    "static/media/img2.jpg": "/Pet/static/media/img2.88785832d48873f642b8.jpg",
+    "static/media/img3.png": "/Pet/static/media/img3.1f3abfdbed91cdf5d51e.png",
+    "index.html": "/Pet/index.html",
+    "main.a5a95915.css.map": "/Pet/static/css/main.a5a95915.css.map",
+    "main.7b80532e.js.map": "/Pet/static/js/main.7b80532e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5a95915.css",
+    "static/js/main.7b80532e.js"
+  ]
+}
