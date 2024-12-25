@@ -1,9 +1,9 @@
 import React from 'react';
 import classes from "./Home.module.css";
 import Possibilities from '../components/Possibilities.jsx';
-import img1 from "C:/Users/Home/upcoming-events1/src/images/img1.png";
-import img2 from "C:/Users/Home/upcoming-events1/src/images/img2.jpg";
-import img3 from "C:/Users/Home/upcoming-events1/src/images/img3.png";
+import img1 from "../images/img1.png";
+import img2 from "../images/img2.jpg";
+import img3 from "../images/img3.png";
 
 
 function Home() {

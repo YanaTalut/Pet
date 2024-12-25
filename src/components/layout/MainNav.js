@@ -2,8 +2,8 @@ import React from "react";
 import 'animate.css'; // Важно: без фигурных скобок {}
 import { Link } from "react-router-dom";
 import classes from "./MainNav.module.css";
-import logo from "C:/Users/Home/upcoming-events1/src/images/logo.png";
-import header from "C:/Users/Home/upcoming-events1/src/images/header.jpg";
+import logo from "../../images/logo.png";
+import header from "../../images/header.jpg";
 
 function MainNav() {
     return (

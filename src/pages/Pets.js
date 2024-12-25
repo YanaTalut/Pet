@@ -1,17 +1,17 @@
 import React from 'react';
 import Pet from '../components/Pet';
-import misha1 from 'C:/Users/Home/upcoming-events1/src/images/Misha1.jpg';
-import misha2 from 'C:/Users/Home/upcoming-events1/src/images/Misha2.jpg';
-import misha3 from 'C:/Users/Home/upcoming-events1/src/images/Misha3.jpg';
-import misha_glav from 'C:/Users/Home/upcoming-events1/src/images/Misha_glav.jpg';
-import bony1 from 'C:/Users/Home/upcoming-events1/src/images/Bony1.jpg';
-import bony2 from 'C:/Users/Home/upcoming-events1/src/images/Bony2.jpg';
-import bony3 from 'C:/Users/Home/upcoming-events1/src/images/Bony3.jpg';
-import bony4 from 'C:/Users/Home/upcoming-events1/src/images/Bony4.jpg';
-import messi1 from 'C:/Users/Home/upcoming-events1/src/images/messi1.jpg';
-import messi3 from 'C:/Users/Home/upcoming-events1/src/images/messi2.jpg';
-import messi2 from 'C:/Users/Home/upcoming-events1/src/images/messi3.jpg';
-import messi from 'C:/Users/Home/upcoming-events1/src/images/messi.jpg';
+import misha1 from '../images/Misha1.jpg';
+import misha2 from '../images/Misha2.jpg';
+import misha3 from '../images/Misha3.jpg';
+import misha_glav from '../images/Misha_glav.jpg';
+import bony1 from '../images/Bony1.jpg';
+import bony2 from '../images/Bony2.jpg';
+import bony3 from '../images/Bony3.jpg';
+import bony4 from '../images/Bony4.jpg';
+import messi1 from '../images/messi1.jpg';
+import messi3 from '../images/messi2.jpg';
+import messi2 from '../images/messi3.jpg';
+import messi from '../images/messi.jpg';
 
 function Pets() {
   return (
