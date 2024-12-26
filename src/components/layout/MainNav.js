@@ -1,5 +1,5 @@
 import React from "react";
-import 'animate.css'; // Важно: без фигурных скобок {}
+import 'animate.css';
 import { Link } from "react-router-dom";
 import classes from "./MainNav.module.css";
 import logo from "../../images/logo.png";
