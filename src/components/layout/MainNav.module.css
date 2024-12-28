@@ -40,7 +40,6 @@
    text-decoration: none;
    font-size: 1.2rem;
    color: white;
-   /* Цвет текста */
    transition: color 0.3s ease, background-color 0.3s ease;
 }
 
@@ -48,7 +47,6 @@
 .header a:active,
 .header a.active {
    color: rgb(242, 108, 166);
-   /* Цвет текста при наведении */
    background-color: rgba(255, 255, 255, 0.2);
    border-radius: 5px;
 }
